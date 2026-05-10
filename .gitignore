@@ -1,0 +1,4 @@
+venv/
+mprojects/
+__pycache__/
+*.pyc
